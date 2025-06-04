@@ -353,7 +353,7 @@
     right: -130px;
     position: absolute
 }
-
+/* sky color */
 ._container_1l7jf_1 {
     background-color: #ddf9f2;
     height: 100%;
@@ -441,6 +441,7 @@
     width: 100%
 }
 
+/* rules screen */
 ._containerOuter_k06wi_20 {
     background-color: #f2fffc;
     display: flex;
@@ -505,6 +506,7 @@
     padding: 32px
 }
 
+/* extro */
 ._containerOuter_ogqkz_13 {
     background-color: #f2fffc;
     display: flex;
@@ -570,7 +572,8 @@
     line-height: 1.5;
     font-weight: 400;
     color-scheme: light dark;
-    color: #ffffffde;
+    color: #ff0000;
+    /* inverse arch + split screen before extro */
     background-color: #242424;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
