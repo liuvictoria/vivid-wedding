@@ -268,7 +268,7 @@
 ._player_1mowd_1 {
     background-image: url(/assets/players/matt-all-spritesheet.png);
     background-size: cover;
-    bottom: 65px;
+    bottom: 70px;
     left: 50px;
     position: absolute;
     z-index: 1
@@ -353,7 +353,7 @@
     right: -130px;
     position: absolute
 }
-/* sky color */
+
 ._container_1l7jf_1 {
     background-color: #ddf9f2;
     height: 100%;
@@ -384,7 +384,7 @@
 }
 
 ._player_gp9ol_6 {
-    bottom: 65px;
+    bottom: 70px;
     opacity: 0;
     position: absolute;
     right: 0;
@@ -441,7 +441,6 @@
     width: 100%
 }
 
-/* rules screen */
 ._containerOuter_k06wi_20 {
     background-color: #f2fffc;
     display: flex;
@@ -506,7 +505,6 @@
     padding: 32px
 }
 
-/* extro */
 ._containerOuter_ogqkz_13 {
     background-color: #f2fffc;
     display: flex;
@@ -572,8 +570,7 @@
     line-height: 1.5;
     font-weight: 400;
     color-scheme: light dark;
-    color: #ff0000;
-    /* inverse arch + split screen before extro */
+    color: #ffffffde;
     background-color: #242424;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
