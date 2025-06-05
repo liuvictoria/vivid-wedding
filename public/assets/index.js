@@ -10088,9 +10088,9 @@ function Om({onGo: e, onSkip: t}) {
                 className: Ct.intro,
                 src: "assets/intro.png"
             }), _("img", {
-                className: Ct.title,
-                src: "assets/how-to-play/how-to-play.png"
-            }), _("img", {
+            //     className: Ct.title,
+            //     src: "assets/how-to-play/how-to-play.png"
+            // }), _("img", {
                 className: Ct.text,
                 src: "assets/how-to-play/text.png"
             }), he("div", {
