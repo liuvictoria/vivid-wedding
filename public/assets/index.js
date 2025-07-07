@@ -1,4 +1,5 @@
 /* eslint-disable */
+// import BrowserRouter from 'react-router-dom/BrowserRouter'
 
 (function() {
     const t = document.createElement("link").relList;
@@ -10193,5 +10194,9 @@ function Am() {
     }
 }
 uo.createRoot(document.getElementById("root")).render(_(Gc.StrictMode, {
-    children: _(Am, {})
-}));
+        // children: _(BrowserRouter, {
+        //     basename: "/vivid-wedding",
+            children: _(Am, {})
+        // })
+    }
+));
